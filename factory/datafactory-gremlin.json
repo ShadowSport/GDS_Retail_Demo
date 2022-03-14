@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-gremlin",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15473b91-7996-4dd3-a5fe-1f03909c8bf9",
+		"tenantId": "3c8ea0e4-127c-4a02-ac65-58830e4ac608"
+	}
+}
